@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\metematıkOyuns\metematıkOyuns\obj\Debug\metematıkOyuns.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\metematıkOyuns\metematıkOyuns\obj\Debug\metematıkOyuns.Form1.resources
+C:\Users\USER\source\repos\metematıkOyuns\metematıkOyuns\obj\Debug\metematıkOyuns.Properties.Resources.resources
+C:\Users\USER\source\repos\metematıkOyuns\metematıkOyuns\obj\Debug\metematıkOyuns.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\metematıkOyuns\metematıkOyuns\obj\Debug\metematıkOyuns.csproj.CoreCompileInputs.cache
